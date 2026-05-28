@@ -47,6 +47,7 @@ int main() {
 }
 
 int menu() {
+    //menu choicing section
     int choice;
     printf("\n Welcome to Area Calculator ");
     printf("\n ----------------------------");
